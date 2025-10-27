@@ -1,0 +1,23 @@
+.login-page-container {
+  background-image: url('/Nelson.jpg'); 
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Login-section {
+  background-color: rgba(200, 200, 200, 0.8); 
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form {
+  background-color: rgba(211, 211, 211, 0.9); /* Light grey background */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
